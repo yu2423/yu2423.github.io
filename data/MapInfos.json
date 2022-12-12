@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":false,"name":"家1楼买完蛋糕","order":6,"parentId":4,"scrollX":644,"scrollY":400.6666666666667},
 {"id":6,"expanded":true,"name":"家1楼第二天","order":7,"parentId":4,"scrollX":654.6666666666666,"scrollY":428.6666666666667},
 {"id":7,"expanded":false,"name":"扎南家","order":8,"parentId":1,"scrollX":665.3333333333334,"scrollY":607.3333333333334},
-{"id":8,"expanded":false,"name":"办公室 1楼","order":10,"parentId":0,"scrollX":654.6666666666666,"scrollY":714},
+{"id":8,"expanded":false,"name":"办公室 1楼","order":10,"parentId":0,"scrollX":665.3333333333334,"scrollY":714},
 {"id":9,"expanded":false,"name":"公园","order":9,"parentId":1,"scrollX":654.6666666666666,"scrollY":550},
 {"id":10,"expanded":false,"name":"操作练习","order":1,"parentId":0,"scrollX":654.6666666666666,"scrollY":400.6666666666667}
 ]
